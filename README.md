@@ -20,5 +20,5 @@
 
 # Linux Assignment 3 part 2 Info
 
-This assignment uses a starter file from https://gitlab.com/cit2420/as3p2-starter-f23
-The included backend server runs on port 8080, 127.0.0.1:8080
+- This assignment uses a starter file from https://gitlab.com/cit2420/as3p2-starter-f23
+- The included backend server runs on port 8080, 127.0.0.1:8080
