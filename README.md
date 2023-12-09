@@ -4,6 +4,7 @@
 - frontend, index.html, goes to /var/www/my-site directory
 - nginx configuration file, hello.conf, goes to /etc/nginx/sites-available directory
     - a symbolic link of this hello.conf goes to /etc/nginx/sites-enabled directory
+- service file, hello-server.service, goes to /etc/systemd/system directory
 - config for setting up servers, cloud-config.yml, is used in DigitalOcean before setting up both web1 and web2 servers
 - curl commands for testing server, curl.md, has my load-balancer IP address. 
 
